@@ -1,0 +1,7 @@
+CREATE TABLE board (
+    id INT PRIMARY KEY,    
+    title VARCHAR2(255) NOT NULL,                          
+    user_id VARCHAR2(255) NOT NULL,        
+    category INT NOT NULL,
+    content VARCHAR2(500) NOT NULL                 
+);
