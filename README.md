@@ -1,4 +1,4 @@
-# 🌱 Serverspring (Spring MVC Project)
+# 🌱 INHATC spring (Spring MVC Project)
 
 ![Java](https://img.shields.io/badge/Java-8+-red?logo=openjdk)
 ![Spring](https://img.shields.io/badge/Spring-MVC-green?logo=spring)
@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Introduction
-**Serverspring**은 `Java`와 `Spring Framework (MVC)`를 기반으로 한 **서버 사이드 웹 애플리케이션 프로젝트**입니다.  
+**INHATC spring**은 `Java`와 `Spring Framework (MVC)`를 기반으로 한 **서버 사이드 웹 애플리케이션 프로젝트**입니다.  
 본 프로젝트는 **백엔드 비즈니스 로직 처리**와 **데이터베이스 연동**을 다루며, 주로 **학습 및 교육 목적**으로 제작되었습니다.  
 
 전통적인 **Spring MVC 방식**으로 구현되어 있으며, 실행 시 **Tomcat과 같은 WAS(Web Application Server)** 환경에 배포해야 합니다.  
